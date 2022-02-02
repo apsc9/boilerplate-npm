@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"author": "Aditya"
+	/*"name": "fcc-learn-npm-package-json",
 	"author": "Aditya",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -11,5 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	}*/
 }
